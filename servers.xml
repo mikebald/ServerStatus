@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+	
+	
+	
+<server id="0"><name>TLW - Florida</name><host>98.173.19.53</host><port>80</port></server><server id="1"><name>TLW - Canada</name><host>158.69.55.49</host><port>80</port></server><server id="2"><name>CMCG FTP</name><host>98.173.19.53</host><port>21</port></server><server id="3"><name>WAPC MC</name><host>192.227.218.96</host><port>25565</port></server></servers>
